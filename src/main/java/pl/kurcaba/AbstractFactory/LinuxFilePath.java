@@ -9,6 +9,6 @@ public class LinuxFilePath implements FilePath {
     }
 
     public void printFilePath() {
-        System.out.println("Path to file in Linux: " + path);
+        System.out.print("Path to file in Linux: " + path);
     }
 }

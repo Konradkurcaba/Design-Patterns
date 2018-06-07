@@ -9,6 +9,6 @@ public class WindowsFilePath implements FilePath{
     }
 
     public void printFilePath() {
-        System.out.println("Path to file in Windows: "+path);
+        System.out.print("Path to file in Windows: "+path);
     }
 }

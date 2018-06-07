@@ -1,4 +1,4 @@
-package pl.kurcaba.FactoryMethod;
+package pl.kurcaba.Factory;
 
 public class CandiesFactory {
 
@@ -11,6 +11,8 @@ public class CandiesFactory {
 
             case "Chocolate":
                 return new ChocolateCandy();
+            case "Fruit":
+                return new FruitCandy();
 
                 default:return null;
 

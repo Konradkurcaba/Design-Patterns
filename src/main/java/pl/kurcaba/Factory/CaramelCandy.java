@@ -1,4 +1,4 @@
-package pl.kurcaba.FactoryMethod;
+package pl.kurcaba.Factory;
 
 public class CaramelCandy implements Candy {
 
