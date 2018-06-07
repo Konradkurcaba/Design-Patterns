@@ -1,5 +1,8 @@
 package pl.kurcaba.Decorator;
 
+/**
+ * This is our basic car
+ */
 public class SimpleCar implements Car {
 
 

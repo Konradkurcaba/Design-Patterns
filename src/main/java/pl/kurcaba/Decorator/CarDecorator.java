@@ -1,5 +1,8 @@
 package pl.kurcaba.Decorator;
 
+/**
+ * This is decorator
+ */
 public class CarDecorator implements Car {
 
     private Car carToBeDecorated;

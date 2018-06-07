@@ -1,5 +1,8 @@
 package pl.kurcaba.Strategy;
 
+/**
+ * This strategy is used when employee becomes employee of the month
+ */
 public class SuperSpecialMonthStrategy implements Strategy{
 
     @Override

@@ -1,5 +1,9 @@
 package pl.kurcaba.Strategy;
 
+
+/**
+ * Strategy for special month
+ */
 public class SpecialMonthStrategy implements Strategy {
 
     @Override

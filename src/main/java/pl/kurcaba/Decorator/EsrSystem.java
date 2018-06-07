@@ -1,5 +1,8 @@
 package pl.kurcaba.Decorator;
 
+/**
+ * class represent EsrSystem in cars
+ */
 public class EsrSystem extends CarDecorator{
 
     public EsrSystem(Car carToBeDecorated) {

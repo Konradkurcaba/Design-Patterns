@@ -1,5 +1,8 @@
 package pl.kurcaba.Decorator;
 
+/**
+ * class represent ABS system in cars
+ */
 public class AbsSystem extends CarDecorator {
 
     public AbsSystem(Car carToBeDecorated) {

@@ -1,5 +1,8 @@
 package pl.kurcaba.AbstractFactory;
 
+/**
+ * This class represent file path for windows systems
+ */
 public class WindowsFilePath implements FilePath{
 
     String path;
